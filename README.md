@@ -147,6 +147,3 @@ Feedstock Maintainers
 
 * [@jayqi](https://github.com/jayqi/)
 
-
-<!-- dummy commit to enable rerendering -->
-
