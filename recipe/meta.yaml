@@ -1,5 +1,5 @@
 {% set name = "repro-tarfile" %}
-{% set version = "0.2.0" %}
+{% set version = "0.2.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/repro_tarfile-{{ version }}.tar.gz
-  sha256: a02914bb1af8a578fa854a2a52a0e7f55e0b707e5f6143d5d33fb0b8618d0d7e
+  sha256: 4270205de0f1411fdd332f77156124c1dfe04d922ea1ba399fb50dd370cd04f3
 
 build:
   noarch: python
